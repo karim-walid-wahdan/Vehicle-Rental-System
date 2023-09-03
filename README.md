@@ -28,10 +28,6 @@ This project is implemented with the following technologies:
 - Robust and scalable SQL-based database implementation.
 - Web-based interface for easy access and manipulation of the system.
 
-## Code Examples
-
-To be added from the repository.
-
 ## Contributing
 
 Contributions to the Vehicle-Rental-System project are welcome. If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
