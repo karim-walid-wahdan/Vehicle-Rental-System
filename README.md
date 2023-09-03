@@ -6,9 +6,9 @@ A comprehensive SQL-based database design and implementation for a web-based veh
 
 To get a local copy of the project, clone the repository from GitHub by running the following command in your terminal:
 
-\```
+```
 git clone https://github.com/karim-walid-wahdan/Vehicle-Rental-System.git
-\```
+```
 
 ## Build Status
 
